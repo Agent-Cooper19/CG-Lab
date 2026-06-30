@@ -8,7 +8,7 @@
 ## 文件结构
 
 ```
-Work6_Cloth_Simulation/
+Work6/
 ├── cloth_simulation.py      # 主程序
 ├── 阻尼为1.gif          # 阻尼=1.0 效果演示
 └── 阻尼为5.gif          # 阻尼=5.0 效果演示
