@@ -3,7 +3,7 @@
 
 ## 实验概述
 
-基于 SMPL 模型完成 LBS (Linear Blend Skinning) 蒙皮过程可视化，手写实现四个核心阶段并验证与官方结果的一致性。
+基于 SMPL 模型完成 LBS (Linear Blend Skinning) 蒙皮过程可视化，手写实现四个核心阶段并验证与官方结果的一致性。同时完成了选做内容，实现了姿态动画，在outputs_animation中。
 
 ## 文件结构
 
