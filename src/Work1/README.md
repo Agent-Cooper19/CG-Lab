@@ -8,7 +8,7 @@
 ## 文件结构
 
 ```
-Work1_MVP_Transform/
+Work1/
 ├── MVP.py                # 基础 MVP 变换（三角形绕 Z 轴旋转）
 ├── Cube.py               # 立方体线框渲染（WASD 控制旋转）
 ├── cube_interpolation.py # 选做：双立方体旋转变换插值动画
