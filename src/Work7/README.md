@@ -8,7 +8,7 @@
 ## 文件结构
 
 ```
-Work7_SMPL_LBS/
+Work7/
 ├── lbs_visualization.py      # 主实验：LBS 四阶段可视化
 ├── lbs_animation.py          # 选做：姿态动画
 ├── models/
